@@ -128,8 +128,8 @@ To view the dashboard, simply open `dashboard.html` in any browser — no instal
 
 ## 📬 Contact
 
-**[Your Name]**
-📧 your.email@example.com · 🔗 [LinkedIn](https://linkedin.com/in/yourprofile) · 💻 [GitHub](https://github.com/yourusername)
+**Abilash Sivakumar**
+📧 abilashs315@gmail.com · 🔗 [LinkedIn](https://linkedin.com/in/yourprofile) · 💻 [GitHub]((https://github.com/Despo17/))
 
 ---
 
