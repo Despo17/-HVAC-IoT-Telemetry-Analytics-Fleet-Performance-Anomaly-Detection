@@ -8,7 +8,7 @@
 
 > End-to-end time-series analysis of IoT telemetry from a 5-device HVAC fleet — from raw sensor data to a decision-ready executive dashboard, delivering **root-cause anomaly detection** and **actionable maintenance recommendations**.
 
-**🔗 [View the Live Interactive Dashboard](./dashboard.html)** &nbsp;|&nbsp; **📓 [View the Full Analysis Notebook](./hvac_analysis.ipynb)**
+**🔗 [View the Live Interactive Dashboard](./HVAC_Analytics_Dashboard.html)** &nbsp;|&nbsp; **📓 [View the Full Analysis Notebook](./hvac_analysis.ipynb)**
 
 ---
 
