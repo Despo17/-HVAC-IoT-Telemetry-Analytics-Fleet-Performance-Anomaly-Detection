@@ -11,6 +11,7 @@
 **🔗 [View the Live Interactive Dashboard](./HVAC_Analytics_Dashboard.html)** &nbsp;|&nbsp; **📓 [View the Full Analysis Notebook](./hvac_analysis.ipynb)**
 
 ![Dashboard preview](./dashboard-preview.png)
+![Dashboard preview](./Preview.png)
 
 ---
 
