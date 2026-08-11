@@ -129,7 +129,7 @@ To view the dashboard, simply open `dashboard.html` in any browser — no instal
 ## 📬 Contact
 
 **Abilash Sivakumar**
-📧 abilashs315@gmail.com · 🔗 [LinkedIn](www.linkedin.com/in/abilash-s-b5594432a) · 💻 [GitHub](https://github.com/Despo17/)
+📧 abilashs315@gmail.com · 🔗 [LinkedIn](https://www.linkedin.com/in/abilash-s-b5594432a) · 💻 [GitHub](https://github.com/Despo17/)
 
 ---
 
