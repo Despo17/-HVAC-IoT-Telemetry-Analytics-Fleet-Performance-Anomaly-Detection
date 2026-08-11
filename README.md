@@ -78,7 +78,7 @@ The analysis follows a complete, reproducible data pipeline:
 
 ## 📊 The Dashboard
 
-The `dashboard.html` file is a **self-contained, standalone report** — open it directly in any browser, no server or dependencies required. It includes:
+The `HVAC_Analytics_Dashboard.html` file is a **self-contained, standalone report** — open it directly in any browser, no server or dependencies required. It includes:
 
 - An executive summary with fleet-wide narrative and per-device status badges
 - Four headline KPI cards (energy, offline intervals, setpoint misses, top performer)
@@ -90,7 +90,7 @@ The `dashboard.html` file is a **self-contained, standalone report** — open it
 ```
 hvac-iot-telemetry-analytics/
 ├── hvac_analysis.ipynb    # Full analysis notebook (cleaning → EDA → anomalies → insights)
-├── dashboard.html          # Standalone interactive executive dashboard
+├── HVAC_Analytics_Dashboard.html          # Standalone interactive executive dashboard
 └── README.md               # You are here
 ```
 
@@ -117,7 +117,7 @@ pip install pandas numpy plotly jupyter
 jupyter notebook hvac_analysis.ipynb
 ```
 
-To view the dashboard, simply open `dashboard.html` in any browser — no installation needed.
+To view the dashboard, simply open `HVAC_Analytics_Dashboard.html` in any browser — no installation needed.
 
 ## 💡 What This Project Demonstrates
 
