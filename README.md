@@ -10,6 +10,8 @@
 
 **🔗 [View the Live Interactive Dashboard](./HVAC_Analytics_Dashboard.html)** &nbsp;|&nbsp; **📓 [View the Full Analysis Notebook](./hvac_analysis.ipynb)**
 
+![Dashboard preview](./screenshots/dashboard-preview.png)
+
 ---
 
 ## 📌 Project Overview
@@ -89,9 +91,11 @@ The `HVAC_Analytics_Dashboard.html` file is a **self-contained, standalone repor
 
 ```
 hvac-iot-telemetry-analytics/
-├── hvac_analysis.ipynb    # Full analysis notebook (cleaning → EDA → anomalies → insights)
-├── HVAC_Analytics_Dashboard.html          # Standalone interactive executive dashboard
-└── README.md               # You are here
+├── hvac_analysis.ipynb              # Full analysis notebook (cleaning → EDA → anomalies → insights)
+├── HVAC_Analytics_Dashboard.html    # Standalone interactive executive dashboard
+├── screenshots/
+│   └── dashboard-preview.png        # Preview image used in this README
+└── README.md                        # You are here
 ```
 
 > **Note:** The source `device_telemetry.csv` (raw 15-minute telemetry from the 5-device fleet) is not redistributed in this repo. The notebook documents the exact cleaning and validation steps applied to it, so the pipeline is fully reproducible against any similarly structured telemetry export.
@@ -107,7 +111,7 @@ hvac-iot-telemetry-analytics/
 
 ```bash
 # Clone the repository
-git clone https://github.com/<your-username>/hvac-iot-telemetry-analytics.git
+git clone https://github.com/Despo17/hvac-iot-telemetry-analytics.git
 cd hvac-iot-telemetry-analytics
 
 # Install dependencies
